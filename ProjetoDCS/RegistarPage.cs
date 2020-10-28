@@ -26,7 +26,7 @@ namespace ProjetoDCS
             }
             else
             {
-                MessageBox.Show("As palavras-passe não são diferentes", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("As palavras-passe não são iguais", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         private void buttonCancelar_Click(object sender, EventArgs e)

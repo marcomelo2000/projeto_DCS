@@ -11,3 +11,16 @@ D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.LoginPage.resources
 D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.PaginaInicial.resources
 D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.RegistarPage.resources
 D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.Questionario.resources
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\bin\Debug\ProjetoDCS.exe.config
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\bin\Debug\ProjetoDCS.exe
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\bin\Debug\ProjetoDCS.pdb
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.csprojAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.LoginPage.resources
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.PaginaInicial.resources
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.Questionario.resources
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.RegistarPage.resources
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.exe
+C:\Users\hp\Documents\GitHub\projeto_DCS\ProjetoDCS\obj\Debug\ProjetoDCS.pdb
