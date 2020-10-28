@@ -1,0 +1,13 @@
+D:\ProjetoDCS\ProjetoDCS\bin\Debug\ProjetoDCS.exe.config
+D:\ProjetoDCS\ProjetoDCS\bin\Debug\ProjetoDCS.exe
+D:\ProjetoDCS\ProjetoDCS\bin\Debug\ProjetoDCS.pdb
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.csprojAssemblyReference.cache
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.Properties.Resources.resources
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.csproj.GenerateResource.cache
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.csproj.CoreCompileInputs.cache
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.exe
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.pdb
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.LoginPage.resources
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.PaginaInicial.resources
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.RegistarPage.resources
+D:\ProjetoDCS\ProjetoDCS\obj\Debug\ProjetoDCS.Questionario.resources
